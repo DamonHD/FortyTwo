@@ -10,3 +10,5 @@ This consists of:
   * The zipped or otherwise bundled distribution format <LIBRARYNAME>.<format> binary.
 
   * The test directory containing an Arduino project performing unit/other tests on the library source.
+
+This is the patch branch for V0.1.
